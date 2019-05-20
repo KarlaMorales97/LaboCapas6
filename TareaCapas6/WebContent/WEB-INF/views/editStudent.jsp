@@ -36,7 +36,7 @@
 				<td><form:input type="text" id="apellido" path="lName" /></td>
 			</tr>
 			<tr>
-				<td>Fecha de Nacimiento:</td>
+				<td>Edad:</td>
 				<td><form:input type="number" id="edad" path="sAge" />
 				
 			</tr>
